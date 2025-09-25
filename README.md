@@ -1,5 +1,11 @@
 # Projects-AlgoritmosI
-Este repositório reúne os exercícios e projetos realizados na disciplina de Algoritmos I, utilizando as linguagens C e Visualg. O objetivo é praticar e consolidar conceitos fundamentais de lógica de programação, como estruturas condicionais, loops, vetores, funções e resolução de problemas básicos, marcando minha introdução ao mundo da programação.
+
+Este repositório reúne os **exercícios e projetos** realizados na disciplina de **Algoritmos I**, utilizando as linguagens **C** e **Visualg**.  
+O objetivo é praticar e consolidar conceitos fundamentais de **lógica de programação**, como estruturas condicionais, loops, vetores, funções e resolução de problemas básicos, marcando minha introdução ao mundo da programação.
+
+> 💡 Todos os códigos em C foram desenvolvidos e compilados utilizando a **IDE Dev C++**.
+
+---
 
 ## 📚 Conteúdo  
 
@@ -23,13 +29,5 @@ Este repositório reúne os exercícios e projetos realizados na disciplina de A
 
 ## ⚙️ Tecnologias/Linguagens  
 
-- C 💻  
+- C 💻 (compilado no **Dev C++**)  
 - Visualg 📊  
-
----
-
-## 🚀 Como usar  
-
-1. Clone este repositório:  
-   ```bash
-   git clone https://github.com/seu-usuario/Projects-AlgoritmosI.git
